@@ -12,6 +12,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("hello world");
             Console.ReadKey();
+            Console.WriteLine("another line just for having another line");
         }
     }
 }
